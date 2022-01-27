@@ -168,7 +168,4 @@ butt2.grid(column=1,row=3)
 butt3.grid(column=0,row=4)
 butt4.grid(column=1,row=4)
 
-
-#commentó
-
 root.mainloop() # event loop needs to created for the windows to stay displayed
